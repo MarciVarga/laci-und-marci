@@ -1,4 +1,4 @@
-package com.example.springboot;
+package com.caimans.controllers;
 
 import java.util.Arrays;
 
